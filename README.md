@@ -145,6 +145,48 @@ Full catalog·diagram in [SKILL_CATALOG.md](docs/SKILL_CATALOG.md)
 | `vision-values-visioncoding` | 가치 매핑 (3프레임워크 통합) — 4단계에서도 사용 |
 | `vision-readiness-visioncoding` | 꿈 달성 4능력 |
 
+#### 진단 7종 상세 / Diagnosis Details
+
+##### 1.1 vision-cys-competence-visioncoding ★ 핵심
+- **이름**: CYS 비전 역량 진단
+- **측정**: 박사님 직접 개발 *200여 문항* 평가 — 10개 비전 코드
+  - 비전 방향성·가치 방향·잠재력·기술력·구상력·자기계발력·전략력·추진력·네트워킹력·리더십 스타일
+- **통합**: 미래학 + MBTI + STRONG + 에니어그램 + 다중지능
+- **재실시**: 1년 1회 권장 (박사님 책)
+
+##### 1.2 vision-mbti-visioncoding
+- **측정**: MBTI 16유형 (E/I·S/N·T/F·J/P 4축 × 5문항 = 20문항)
+- **박사님 활용**: CYS의 *비전 잠재력(성격)* 영역
+
+##### 1.3 vision-enneagram-visioncoding
+- **측정**: 에니어그램 9유형 (Core Desire + Core Fear)
+- **문항**: 27문항 (각 유형 3문항·무작위·3문항씩 출제)
+- **윙(Wing)**: 인접 두 유형 중 점수 높은 쪽
+- **박사님 활용**: CYS의 *비전 잠재력(성격)* 영역
+
+##### 1.4 vision-strong-visioncoding
+- **측정**: STRONG 직업흥미도 / Holland RIASEC 6유형
+- **문항**: 18문항 (각 영역 3문항)
+- **출제**: 3문항씩 6라운드
+- **박사님 활용**: CYS의 *비전 기술력(관심사 검사)* 영역
+
+##### 1.5 vision-multipleintel-visioncoding
+- **측정**: Howard Gardner 다중지능 9가지 (1983 + 1995 자연친화 + Existential 잠정)
+- **문항**: 27문항 (각 지능 3문항)
+- **상위 4개**: 우세 지능 식별
+- **박사님 활용**: CYS의 *비전 잠재력(재능 — 다중지능)* 영역
+
+##### 1.6 vision-values-visioncoding
+- **측정**: MBTI + 에니어그램 + 다중지능 결과 → 가치 단어 매핑
+- **9유형 추구 세상** 명시 (박사님 책 인용 그대로)
+- **박사님 활용**: CYS의 *비전 가치 방향* 영역 — *4단계*에서도 가치 명확화 도구로 재사용
+
+##### 1.7 vision-readiness-visioncoding
+- **측정**: 꿈 달성 4능력 (Big Picture·Reframing·Strategy·Follow-Through)
+- **문항**: 20문항 (각 능력 5문항)
+- **시각화**: 영어 축 막대 그래프
+- **박사님 활용**: 보조 진단
+
 ### 박사님 책 토대 — 척추 도식 (5)
 박사님 미래준비학교 *고유 프레임* — 8단계 전반에 걸쳐 활용
 
@@ -155,6 +197,55 @@ Full catalog·diagram in [SKILL_CATALOG.md](docs/SKILL_CATALOG.md)
 | `vision-statement-writer` | 비전 선언문 양식 그대로 | 6단계 (선언문) |
 | `vision-smart-five-competence` | SMART 5역량 (S·M·A·R·T) | 8단계 (훈련) |
 | `vision-eight-training-areas` | 비전 훈련 8대 영역 | 8단계 (훈련) |
+
+#### 척추 도식 5종 상세 / Spine Details
+
+##### 2.1 vision-five-stages ★★ 최핵심
+- **박사님 비전 5단계**:
+  - Stage 1 **비전 스케치** (자기 인식)
+  - Stage 2 **비전 디자인** (비전 발견)
+  - Stage 3 **비전 훈련** (SMART 5역량)
+  - Stage 4 **비전 재인식**
+  - Stage 5 **비전 재생산** — 최고 경지
+- **8단계 매칭**: *8단계 (지속 셀프코칭)* — 자극·디자인·심층탐구·훈련·재생산 사이클의 척추
+- **차별점**: 일반 5단계 (vision-strategy-coach)와 *완전 다른* 박사님 정통
+
+##### 2.2 vision-mission-frame ★ 핵심
+- **비전 프레임 도식**:
+  ```
+  영감 + 정신적 가치    → 영적 직관력
+        ↑↓ (R)
+  정보 + 예측 구성      → 미래 변화 통찰
+  ```
+- **비전 정의 직결**: "가치 있는"·"시대적"·"소명" 매핑
+- **8단계 매칭**: *5단계 (큰 그림)* — 비전 출발점을 비전 프레임으로 정밀화
+
+##### 2.3 vision-statement-writer ★ 실행
+- **양식 구성**: 11개 빈칸 (이름·3가지 미래·문제/욕구/결핍·관심·재능·성격·일·가치·Purposes 5개)
+- **선행 권장**: 비전 디자인 완료 후 작성
+- **8단계 매칭**: *6단계 (비전선언문)*
+
+##### 2.4 vision-smart-five-competence ★ 훈련
+- **SMART 5역량**:
+  - **S**ense (직관적·훈련된 통찰력)
+  - **M**ethod (통합·분석 사고 + 체계 업무)
+  - **A**rt (장인 지식·예술적 상상력)
+  - **R**elationship (집단지성·인격)
+  - **T**echnology (기술지능)
+- **OECD DeSeCo 대응**: 1997~2003 OECD 12개국 핵심역량과 정확히 매핑
+- **8단계 매칭**: *8단계 (훈련)*
+
+##### 2.5 vision-eight-training-areas ★ 습관
+- **8대 영역**:
+  1. 균형 잡힌 영성
+  2. 건강한 사고
+  3. 좋은 언어
+  4. 좋은 관계
+  5. 효과적 학습
+  6. 효율적 실행
+  7. 지혜로운 재정 전략
+  8. 건강한 신체
+- **8단계 매칭**: *8단계 (훈련)*
 
 ### 박사님 책 토대 — 살·근육 (7)
 박사님 책의 *세부 도구* + 박사님 미래학 *응용 도구* — 8단계 전반에 걸쳐 활용
@@ -168,6 +259,64 @@ Full catalog·diagram in [SKILL_CATALOG.md](docs/SKILL_CATALOG.md)
 | `vision-future-promise-five-criteria` | 미래 유망성 5기준 | 3단계 (시대적 필요) |
 | `vision-three-realm-balance` | 비전 영역 3겹 (개인/가족·세상/정신적) | 4단계 (가치·열매) |
 | `vision-future-needs-prediction` | 미래 필요 3축 분해 | 3단계 (시대적 필요) |
+
+#### 살·근육 + 응용 7종 상세 / Flesh + Applied Details
+
+##### 3.0 vision-personal-future-research ★ 2단계 시작점 (응용)
+- **위치**: 박사님 8단계 *2단계 (나와 연관된 미래 예측)의 시작점*
+- **입력**: Vision Coding 진단 7종 결과 (CYS·MBTI·에니어그램·STRONG·다중지능·가치·준비도)
+- **처리**:
+  - 다중지능 → 산업·기술 영역 가중치
+  - STRONG/RIASEC → 직업·환경 가중치
+  - 가치 단어 → 영성·정치·사회 가중치
+  - MBTI/에니어그램 → 변화 대응 스타일 가중치
+  - CYS 비전 코드 → 종합 가중치
+- **산출**: STEEPS 6영역 × 시간축 3구간(단·중·장기) 매트릭스 + 우선순위 상위 10~15개 *변화 카드*
+- **다음 흐름**: foresight-futures-wheel → vision-four-futures → vision-futures-timeline-map
+- **차별점**: 일반 미래 보고서가 아닌 *그 사용자 진단 결과 가중치*가 적용된 개인 맞춤 미래 리포트
+
+##### 3.1 vision-financial-3shields-3windows
+- **3개의 방패** (자산 보존): 금융·투자·소비 자산 리모델링
+- **3개의 창** (자산 증식): 소득·투자·꿈 효과
+- **차별점**: vision-financial-coach (Ramsey/Orman)와 *완전히 다른* 박사님 고유 모델
+- **8단계 매칭**: *7단계 (구체 설계 — 재정)*
+
+##### 3.2 vision-futures-timeline-map
+- **콜럼버스 비유**: 정밀 지도 X, 방향 지도 O
+- **4가지 고려사항**: 직면 상황·필요할 것·보잘것없는 정보·뜻밖의 미래
+- **6힘 영역**: STEEPS 박사님판 (사회·기술·경제·환경·정치·영성)
+- **8단계 매칭**: *2단계 (미래 예측)*
+
+##### 3.3 vision-four-futures
+- **4가지 미래**:
+  - **Plausible** (기본미래·51~80%)
+  - **Possible** (가능 미래들)
+  - **Wildcard** (뜻밖의 미래 — 비약적 진보 + 붕괴)
+  - **Normative/Preferred** (바람직한 미래)
+- **비전 가능성 영역 3~4개** 도출
+- **8단계 매칭**: *2단계 (미래 예측)*
+
+##### 3.4 vision-future-promise-five-criteria
+- **미래 유망성 5기준**:
+  1. 가치 있는 영향력 (지배력 ≠ 영향력)
+  2. 행복성 (비전 ↔ 행복 = 동전 앞뒷면)
+  3. (적절한) 부의 가능성
+  4. 지속가능성
+  5. 경쟁력 (10:1 vs 100:1)
+- **8단계 매칭**: *3단계 (시대적 필요 영역 평가)*
+
+##### 3.5 vision-three-realm-balance
+- **3겹 다이어그램**:
+  - 나만 → 개인 욕망
+  - 가족·세상만 → 자기희생
+  - 정신적으로만 → 왜곡된 사명
+  - **교집합 = 진정한 비전 영역**
+- **8단계 매칭**: *4단계 (가치·열매 예상)* — 비전 열매가 3겹 교집합에 위치하는지 점검
+
+##### 3.6 vision-future-needs-prediction
+- **3축 분해**: 기회/도전 · 필요/결핍 · 해결/신규 문제
+- **STEEPS** + 미래 형상 3요소
+- **8단계 매칭**: *3단계 (시대적 필요 발견)* — 미래 변화에서 5가지 필요(문제·욕구·결핍·위기·기회) 도출
 
 ### 2단계 미래 예측 — 박사님 권장 순차 흐름
 
@@ -203,6 +352,49 @@ Full catalog·diagram in [SKILL_CATALOG.md](docs/SKILL_CATALOG.md)
 | `vision-financial-coach` | Dave Ramsey + Suze Orman 재정 | 7단계 (구체 설계) |
 | `vision-follow-through-habits` | BJ Fogg + James Clear + Charles Duhigg 습관 | 8단계 (지속) |
 | `vision-progress-review` | 주간·월간·분기·연간 4단위 점검 | 8단계 (지속) |
+
+#### 처방·실행 7종 상세 / Prescription Details
+
+##### 4.1 vision-strategy-coach
+- **5단계** (일반): 비전핵심 → 장기 → 단기 → 행동 → 측정
+- **박사님 책의 *5단계 (vision-five-stages)*와 별개**
+- **8단계 매칭**: *7단계 (구체 설계 — 전략)*
+
+##### 4.2 vision-career-recommendation
+- **4유형 직업 추천 × 5개 = 20개**:
+  1. 미래 직업 (Future Jobs)
+  2. 행복·재미 (Happy & Fun)
+  3. 은퇴 후 봉사 (Retirement Volunteering)
+  4. 현재 고소득 (High-Pay Current)
+- **나이·학력 우선 필터**
+- **8단계 매칭**: *7단계 (구체 설계 — 직업·진로)*
+
+##### 4.3 vision-clarity-coaching
+- **소크라테스 산파술** (maieutics) 비전 명료화
+- **5단계**: 표면 vs 본질·살아있음·5년 후 장면·후회 1순위·한 문장 산출
+- **8단계 매칭**: *5단계 (큰 그림)* — 가치+시대적 필요+능력 종합을 한 문장으로
+
+##### 4.4 vision-goal-reframing
+- **3 프레임 결합**: SMART + Backcasting + OKR
+- **5단계**: 영감 청취·SMART 검증·Backcasting·OKR·첫 한 걸음
+- **8단계 매칭**: *7단계 (구체 설계 — 목표)*
+
+##### 4.5 vision-financial-coach
+- **Dave Ramsey** (7 Baby Steps·스노우볼) + **Suze Orman** (8개월 응급자금)
+- **6단계 분석 + 5단계 목표 시퀀스**
+- **차별점**: vision-financial-3shields-3windows (박사님 모델)와 별개
+- **8단계 매칭**: *7단계 (구체 설계 — 재정 보조)*
+
+##### 4.6 vision-follow-through-habits
+- **3대 습관 과학**: BJ Fogg + James Clear + Charles Duhigg
+- **5단계**: 행동 분해·트리거·Tiny·보상·추적
+- **한국 작심삼일 패턴 대응**
+- **8단계 매칭**: *8단계 (지속 — 습관)*
+
+##### 4.7 vision-progress-review
+- **4단위 점검**: 주간(30분)·월간(1시간)·분기(2시간)·연간(반나절)
+- **빗나감 정상화** — 학습 신호로
+- **8단계 매칭**: *8단계 (지속 — 점검 사이클)*
 
 ---
 
