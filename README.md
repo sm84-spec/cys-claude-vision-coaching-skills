@@ -68,40 +68,67 @@ This package is published on GitHub to realize the **Vision Reproduction — the
 
 ## 🚀 빠른 시작 / Quick Start
 
-### 1. 설치 / Install
+> **컴퓨터를 잘 모르셔도 괜찮습니다.** 아래 3단계만 따라하시면 됩니다.
+> 한 줄 한 줄 풀어쓴 상세 가이드는 → **[INSTALLATION.md](docs/INSTALLATION.md)**
 
-자세한 설치는 [INSTALLATION.md](docs/INSTALLATION.md)를 참조하세요.
-For detailed installation, see [INSTALLATION.md](docs/INSTALLATION.md).
+### 1단계 — 패키지 내려받기
+
+터미널을 열고 **아래 두 줄을 차례로** 복사·붙여넣기 후 Enter:
 
 ```bash
-# Clone repository
-git clone https://github.com/ysfuture/cys-claude-vision-coaching-skills.git
-cd cys-claude-vision-coaching-skills
+cd ~
+git clone https://github.com/idoforgod/cys-claude-vision-coaching-skills.git
+```
 
-# Symlink all skills to Claude Code
+- 첫 줄: 내 홈 폴더로 이동 (Mac은 `/Users/내이름`, Windows는 `C:\Users\내이름`)
+- 둘째 줄: 패키지를 GitHub에서 통째로 내려받기
+
+### 2단계 — Claude Code에 26개 스킬 자동 등록
+
+방금 만들어진 폴더로 들어가서 아래 한 덩어리를 통째로 복붙:
+
+```bash
+cd ~/cys-claude-vision-coaching-skills
+mkdir -p ~/.claude/skills
 for d in skills/*/; do
- name=$(basename "$d")
- ln -sf "$(pwd)/$d" ~/.claude/skills/$name
+  name=$(basename "$d")
+  ln -sf "$(pwd)/$d" ~/.claude/skills/$name
 done
 ```
 
-### 2. 첫 사용 — 박사님 8단계 따라가기 / First Use — Following the 8 Stages
+- 첫 줄: 방금 내려받은 패키지 폴더로 이동
+- 둘째 줄: Claude Code 스킬 폴더가 없으면 만들기
+- `for ... done`: 26개 스킬을 한꺼번에 등록
 
-박사님 비전 발견·완수 1단계부터:
-Start with Stage 1 of Dr. Choi's vision flow:
+### 3단계 — Claude Code 재시작 → 첫 스킬 실행
 
-```
-Claude Code에서:
-> /vision-cys-competence-visioncoding
-```
-
-또는 박사님 책 척추 도식부터:
-Or start with Dr. Choi's framework:
+Claude Code를 **완전히 종료**(창 닫기가 아니라 앱 종료)한 뒤 다시 실행. 그리고 입력창에:
 
 ```
-Claude Code에서:
-> /vision-five-stages
+/vision-five-stages
 ```
+
+박사님 비전 5단계 안내가 나오면 **설치 성공**입니다.
+
+---
+
+### 처음이라 어디서 시작해야 할지 모르겠다면
+
+- **자기 자신을 알고 싶다** → `/vision-cys-competence-visioncoding` (박사님 직접 개발 CYS 진단)
+- **박사님 책의 흐름대로 따라가고 싶다** → `/vision-five-stages` (비전 5단계 척추)
+- **이미 비전이 있고 실행이 막혔다** → `/vision-strategy-coach` (전략 코치)
+
+---
+
+### 이미 설치하신 분 — 최신 버전으로 업데이트
+
+```bash
+cd ~/cys-claude-vision-coaching-skills
+git pull origin main
+```
+
+이 두 줄이면 끝납니다. (심볼릭 링크 방식은 자동 반영됨)
+Windows에서 복사 방식으로 설치하신 분은 [INSTALLATION.md 업데이트 절차](docs/INSTALLATION.md#-업데이트--updates) 참고.
 
 ---
 
