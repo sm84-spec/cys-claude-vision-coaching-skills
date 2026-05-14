@@ -37,6 +37,22 @@ This package is published on GitHub to realize the **Vision Reproduction — the
 
 ---
 
+## 📢 최근 업데이트 / Recent Updates
+
+**2026-05-13 — 22개 vision 스킬 대규모 품질 보강**
+- 진단·척추·살근육·처방 전 영역 22개 SKILL.md 일괄 업데이트
+- 박사님 책 인용 정밀화 + 코칭 흐름 일관성 강화
+- 변경량: +3,051줄 / −932줄
+- 부수 갱신: `docs/SKILL_CATALOG.md` 자동 빌드 재생성
+
+**2026-05-13 — Large-scale quality enhancement of 22 vision skills**
+- 22 SKILL.md files updated across diagnosis · spine · flesh · prescription
+- Refined Dr. Choi's book citations · strengthened coaching flow consistency
+- Diff: +3,051 / −932 lines
+- Side update: `docs/SKILL_CATALOG.md` regenerated via auto-build
+
+---
+
 ## 🎯 누구를 위한 패키지인가? / Who Is This For?
 
 | 대상 / Target | 추천 활용 / Recommended Use |

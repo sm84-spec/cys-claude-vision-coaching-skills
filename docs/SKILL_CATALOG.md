@@ -64,16 +64,16 @@
 | Diagnosis | `vision-mbti-visioncoding` | 1 | MBTI 전문가·심리측정학자 페르소나로 사용자가 자신의 MBTI 16유형을 발견하도록 돕는 자가 진단 스킬. 4축(E/I 외향… |
 | Diagnosis | `vision-multipleintel-visioncoding` | 1 | Howard Gardner의 다중지능 이론(Theory of Multiple Intelligences, 1983 『Frames… |
 | Diagnosis | `vision-readiness-visioncoding` | 1 | 사용자의 꿈 달성 준비도(Dream Readiness)를 20문항 자가 진단으로 평가하고 영어 축 막대 그래프로 시각화하는 비… |
-| Diagnosis | `vision-strong-visioncoding` | 1 | STRONG 직업흥미도 검사(STRONG Interest Inventory) 시뮬레이션 스킬. Holland의 RIASEC 6… |
+| Diagnosis | `vision-strong-visioncoding` | 1 | STRONG 직업흥미도 검사(Strong Interest Inventory®) 간이 시뮬레이션 스킬. Holland(1959,… |
 | Diagnosis | `vision-values-visioncoding` | 1·4 | 사용자의 MBTI 16유형·에니어그램 9유형·다중지능(Multiple Intelligences) 8지능 결과를 가치 단어(va… |
 | Spine | `vision-mission-frame` | 5 | 최윤식 박사 『미래준비학교』(2016)의 핵심 도식 비전 프레임(Mission Frame)을 단독 도구로 구현한 비전 코칭 스… |
-| Spine | `vision-statement-writer` | 6 | 최윤식 박사 『미래준비학교』(2016)의 Vision Statement 비전 선언문 양식을 그대로 구현한 비전 선언문 작성 코… |
+| Spine | `vision-statement-writer` | 6 | 최윤식 박사 『최윤식의 미래준비학교』(2016, 지식노마드, ISBN 9788993322972)의 Vision Statemen… |
 | Spine | `vision-eight-training-areas` | 8 | 최윤식 박사 『미래준비학교』(2016)의 비전 훈련 8대 영역을 그대로 구현한 미래인재 습관 훈련 코칭 스킬. 박사님 인용 "… |
 | Spine | `vision-five-stages` | 8 | 최윤식 박사 『미래준비학교』(2016)의 미래준비학교 비전 5단계를 그대로 구현한 통합 비전 코칭 스킬. 박사님 고유 5단계… |
 | Spine | `vision-smart-five-competence` | 8 | 최윤식 박사 『미래준비학교』(2016)의 SMART 미래인재 5역량 훈련을 그대로 구현한 비전 훈련 코칭 스킬. 박사님 고유… |
 | Flesh + Applied | `vision-four-futures` | 2 | 최윤식 박사 『미래준비학교』(2016)의 4가지 미래 가능성을 그대로 구현한 비전 미래학 코칭 스킬. 박사님 미래학자 본업의… |
 | Flesh + Applied | `vision-futures-timeline-map` | 2 | 최윤식 박사 『미래준비학교』(2016)의 미래지도(Futures Timeline Map) 작성 도구를 그대로 구현한 비전 코칭… |
-| Flesh + Applied | `vision-personal-future-research` | 2 | 사용자의 Vision Coding 진단 7종 결과(CYS 비전 역량·MBTI·에니어그램·STRONG·다중지능·가치·준비도)를… |
+| Flesh + Applied | `vision-personal-future-research` | 2 | 사용자의 Vision Coding 진단 7종 결과(CYS 비전 역량·MBTI·에니어그램·STRONG/RIASEC·다중지능·가치… |
 | Flesh + Applied | `vision-future-needs-prediction` | 3 | 미래 사회 변화로부터 발생할 잠재적 기회·위기·문제·필요·결핍을 현실적이고 분석적으로 예측·분해하는 미래필요 예측 전문가 스킬… |
 | Flesh + Applied | `vision-future-promise-five-criteria` | 3 | 최윤식 박사 『미래준비학교』(2016)의 미래 유망성 판단 5가지 기준을 그대로 구현한 비전 영역 평가 스킬. 박사님이 미래준… |
 | Flesh + Applied | `vision-three-realm-balance` | 4 | 최윤식 박사 『미래준비학교』(2016)의 비전 영역 3겹 다이어그램을 그대로 구현한 비전 건강도 점검 스킬. 박사님 책 다이어… |
@@ -82,7 +82,7 @@
 | Prescription | `vision-career-recommendation` | 7 | 사용자의 가치 단어·관심사·심리검사 결과(에니어그램·MBTI·다중지능·STRONG/RIASEC) + 나이·학력을 종합하여 적합… |
 | Prescription | `vision-financial-coach` | 7 | Dave Ramsey(『The Total Money Makeover』·7 Baby Steps·스노우볼 방식)와 Suze Orm… |
 | Prescription | `vision-goal-reframing` | 7 | 사용자의 영감·꿈·소망을 측정 가능한 현실 목표로 변환하는 워크북 스킬. 명료해진 비전 한 문장(vision-clarity-c… |
-| Prescription | `vision-strategy-coach` | 7 | 사용자의 비전(Vision)을 구체적·단계별 행동(Action)으로 변환하는 통합 전략 코칭 스킬. 사용자가 좋아한 5단계 메… |
+| Prescription | `vision-strategy-coach` | 7 | 사용자의 비전(Vision)을 구체적·단계별 행동(Action)으로 변환하는 통합 전략 코칭 스킬. 전략 계획·코칭 실무에서… |
 | Prescription | `vision-follow-through-habits` | 8 | 결심·계획이 습관·일상 시스템으로 정착하도록 설계하는 실행 지속력 코칭 스킬. BJ Fogg(Tiny Habits, 2019)… |
 | Prescription | `vision-progress-review` | 8 | 사용자의 비전·목표·행동 계획 진척을 주간·월간·분기·연간 4단위 정기 점검으로 추적·평가·재조정하는 진척 추적 스킬. 4단위… |
 <!-- /AUTO:SKILL_INDEX -->
